@@ -1,6 +1,6 @@
 # Project GRID
 
-This is backend part of educational GRID project. Instruction describes how to clone and run the project on your local
+This is backend part of GRID project. Instruction describes how to clone and run the project on your local
 machine.
 
 ## Getting Started
